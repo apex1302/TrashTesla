@@ -8,6 +8,10 @@ Hooking Up the RF Module:
 To connect the CC1101 RF module to the ESP32, follow the detailed hookup guide provided in the TeslaTaunter repository.
 https://github.com/keldnorman/TeslaTaunter
 
+Setting up your trash reminder:
+
+Your trash day will be fetched via an ics file. Please edit the code for the ical file fitting you needs. 
+
 
 Disclaimer:
 
