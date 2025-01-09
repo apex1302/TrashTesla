@@ -1,4 +1,5 @@
 TrashTesla
+
 TrashTesla is an ESP32 Arduino program that opens the charging port of any parked Tesla to remind you if trash is getting picked up today! Because if fascism belongs in the trash, let’s open the charging port of Musk’s financial source and let the reminder flow.
 
 Features
